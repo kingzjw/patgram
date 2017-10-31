@@ -1,0 +1,2 @@
+<script src="http://<?php echo $_SERVER['HTTP_HOST'] ?>/lib/typeahead/typeahead-0.10.5.js"></script>
+<link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/lib/typeahead/typeahead.css">

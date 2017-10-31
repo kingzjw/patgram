@@ -1,0 +1,32 @@
+#sidebar .nav {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+#sidebar .nav-default li {
+    margin: 0px 0px 15px 0px;
+}
+
+#sidebar .nav-default li a {
+    background: #ffffff;
+    height: 80px;
+    font-size: 20px;
+}
+
+#sidebar .nav-default li a:hover {
+    background: #18bc9c;
+    color: #ffffff;
+}
+
+#sidebar .nav-default li.active a {
+    background: #18bc9c;
+}
+
+#sidebar .nav-default li a span {
+	padding: 16px;
+    display: block;
+}
+
+.page-wrapper {
+	min-height: 540px;
+}

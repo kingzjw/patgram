@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/lib/font-awesome-4.1.0/css/font-awesome.min.css">

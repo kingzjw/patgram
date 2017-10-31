@@ -1,0 +1,1 @@
+<script src="http://<?php echo $_SERVER['HTTP_HOST'] ?>/lib/handlebars/handlebars-v1.3.0.js"></script>

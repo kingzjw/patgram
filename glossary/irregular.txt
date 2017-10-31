@@ -1,0 +1,1112 @@
+acquit: acquitted acquitting
+adlib: adlibbed adlibbing
+alight: alighted alighting
+allege: alleged alleging
+allot: allotted allotting
+ally: allied allying
+amble: ambled ambling
+appal: appalled appalling
+apply: applied applying
+arbitrate: arbitrated arbitrating
+arise: arose arisen
+arouse: aroused arousing
+ascribe: ascribed ascribing
+avenge: avenged avenging
+aver: averred averring
+awake: awoke awaked awoken awaking
+babble: babbled babbling
+babysit: babysat babysitting
+back: pedal backpedaled backpedaling
+backfire: backfired backfiring
+ban: banned banning
+bandy: bandied bandying
+bar: barred barring
+barrage: barraged barraging
+barrel: barreled barreling
+bat: batted batting
+bathe: bathed bathing
+battle: battled battling
+be: am is are was were been
+bear: bore borne born
+beat: beaten beat beating
+become: became become becoming
+bed: bedded bedding
+beg: begged begging
+begin: began begun beginning
+begrudge: begrudged begrudging
+beguile: beguiled beguiling
+bellyache: bellyached bellyaching
+bend: bent bended bending
+benefit: benefited benefitted benefitting
+berate: berated berating
+beseech: besought beseeched beseeching
+beset: beset besetting
+bet: betted bet betting
+bicycle: bicycled bicycling
+bid: bid bidding
+billet: billeted billeting
+bind: bound binding
+bite: bit bitten biting
+bivouac: bivouacked bivouacking
+blab: blabbed blabbing
+blag: blagged blagging blags
+blaspheme: blasphemed blaspheming
+bleed: bled bleeding
+blend: blended blent blending
+blot: blotted blotting
+blow: blew blown blowing
+blur: blurred blurring
+bob: bobbed bobbing
+bode: boded boding
+bog: bogged bogging
+boggle: boggled boggling
+boned: boning
+boo: boos booing booed
+booze: boozed boozing
+bore: bored boring
+be: am is are was were been being
+bottle: bottled bottling
+bounce: bounced bouncing
+bind: bound binding
+brace: braced bracing
+brag: bragged bragging
+brake: braked braking
+break: broke brake broken breaking
+breathe: breathed breathing
+breed: bred breeding
+breeze: breezed breezing
+bribe: bribed bribing
+bridle: bridled bridling
+brim: brimmed brimming
+bring: brought bringing
+bristle: bristled bristling
+broadcast: broadcast broadcasted broadcasting
+browbeat: browbeat browbeaten browbeating
+browse: browsed browsing
+bruise: bruised bruising
+bubble: bubbled bubbling
+bucket: bucketed bucketing
+buckle: buckled buckling
+budge: budged budging
+budget: budgeted budgeting
+bug: bugged bugging
+build: built builded building
+bulge: bulged bulging
+bulldoze: bulldozed bulldozing
+bullshit: bullshitted bullshit bullshitting
+bully: bullied bullying
+bum: bummed bumming
+bumble: bumbled bumbling
+bundle: bundled bundling
+bungle: bungled bungling
+burble: burbled burbling
+burgle: burgled burgling
+burn: burned burnt burning
+burst: burst bursted bursting
+bury: buried burying
+bus: buses busses
+bustle: bustled bustling
+busy: busied busying
+buy: bought buying
+cable: cabled cabling
+cackle: cackled cackling
+caddie: caddied caddying
+cadge: cadged cadging
+cajole: cajoled cajoling
+calculate: calculated calculating
+cancel: canceled canceling cancelled cancelling
+cane: caned caning
+canoodle: canoodled canoodling
+cap: capped capping
+capitalize: capitalized capitalizing
+capsize: capsized capsizing
+capture: captured capturing
+care: cared caring
+caricature: caricatured caricaturing
+carry: carried carrying
+carve: carved carving
+cascade: cascaded cascading
+cast: cast casting
+castigate: castigated castigating
+catch: caught catching
+categorize: categorized categorizing
+cause: caused causing
+cavil: caviled caviling
+cease: ceased ceasing
+cede: ceded ceding
+celebrate: celebrated celebrating
+censure: censured censuring
+certify: certified certifying
+chafe: chafed chafing
+challenge: challenged challenging
+chance: chanced chancing
+change: changed changing
+channel: channeled channeling channelled channelling
+char: charred charring
+characterize: characterized characterizing
+charge: charged charging
+chase: chased chasing
+chat: chatted chatting
+chide: chided chid chidden chiding
+chime: chimed chiming
+chip: chipped chipping
+chirrup: chirruped chirruping
+chivvy: chivvied chivvying
+choke: choked choking
+choose: chose chosen choosing
+chop: chopped chopping
+chortle: chortled chortling
+chorus: chorused chorusing
+chronicle: chronicled chronicling
+chuckle: chuckled chuckling
+chug: chugged chugging
+circle: circled circling
+circulate: circulated circulating
+cite: cited citing
+clap: clapped clapping
+classify: classified classifying
+cleanse: cleansed cleansing
+cleave: cleaved clave cleaving
+cling: clung clinging
+clip: clipped clipt clipping
+clog: clogged clogging
+close: closed closing
+club: clubbed clubbing
+coalesce: coalesced coalescing
+cobble: cobbled cobbling
+codename: codenamed codenaming
+coerce: coerced coercing
+cogitate: cogitated cogitating
+cohere: cohered cohering
+coincide: coincided coinciding
+collaborate: collaborated collaborating
+collapse: collapsed collapsing
+collide: collided colliding
+collocate: collocated collocating
+collude: colluded colluding
+colonize: colonized colonizing
+combine: combined combining
+come: came come coming
+commence: commenced commencing
+commentate: commentated commentating
+commiserate: commiserated commiserating
+commit: committed committing
+commune: communed communing
+communicate: communicated communicating
+commute: commuted commuting
+compare: compared comparing
+compel: compelled compelling
+compensate: compensated compensating
+compete: competed competing
+comply: complied complying
+compose: composed composing
+comprise: comprised comprising
+compromise: compromised compromising
+concede: conceded conceding
+conceive: conceived conceiving
+concentrate: concentrated concentrating
+conceptualize: conceptualized conceptualizing
+concertina: concertinaed concertinaing
+conclude: concluded concluding
+concur: concurred concurring
+condense: condensed condensing
+confer: conferred conferring
+confide: confided confiding
+confine: confined confining
+confiscate: confiscated confiscating
+conflate: conflated conflating
+confuse: confused confusing
+congratulate: congratulated congratulating
+conjecture: conjectured conjecturing
+conjure: conjured conjuring
+connive: connived conniving
+console: consoled consoling
+conspire: conspired conspiring
+constitute: constituted constituting
+construe: construed construing
+contemplate: contemplated contemplating
+continue: continued continuing
+contribute: contributed contributing
+contrive: contrived contriving
+control: controlled controlling
+convalesce: convalesced convalescing
+convene: convened convening
+converge: converged converging
+converse: conversed conversing
+convince: convinced convincing
+convulse: convulsed convulsing
+coo: cooed cooing
+cooperate: cooperated cooperating
+coordinate: coordinated coordinating
+cop: copped copping
+cope: coped coping
+copulate: copulated copulating
+copy: copied copying
+correlate: correlated correlating
+corrode: corroded corroding
+cost: cost costed costing
+costar: costarred costarring
+counsel: counseled counseling counselled counselling
+couple: coupled coupling
+course: coursed coursing
+cradle: cradled cradling
+cram: crammed cramming
+crane: craned craning
+crave: craved craving
+crease: creased creasing
+create: created creating
+creep: crept creeping
+crib: cribbed cribbing
+cringe: cringed cringing
+crinkle: crinkled crinkling
+criticize: criticized criticizing
+crop: cropped cropt cropping
+crow: crowed crew crowing
+crowbar: crowbarred crowbarring
+cruise: cruised cruising
+crumble: crumbled crumbling
+crumple: crumpled crumpling
+crusade: crusaded crusading
+cry: cried crying
+cuddle: cuddled cuddling
+cudgel: cudgeled cudgeling cudgelled cudgelling
+culminate: culminated culminating
+cup: cupped cupping
+curdle: curdled curdling
+cure: cured curing
+curtsy: curtsied curtsying
+curve: curved curving
+cut: cut cutting
+cycle: cycled cycling
+dab: dabbed dabbing
+dabble: dabbled dabbling
+dally: dallied dallying
+damage: damaged damaging
+dance: danced dancing
+dangle: dangled dangling
+dare: dared durst daring
+date: dated dating
+dawdle: dawdled dawdling
+dazzle: dazzled dazzling
+deal: dealt dealing
+debar: debarred debarring
+debate: debated debating
+debilitate: debilitated debilitating
+deceive: deceived deceiving
+decide: decided deciding
+declare: declared declaring
+decline: declined declining
+decompose: decomposed decomposing
+decorate: decorated decorating
+decouple: decoupled decoupling
+decrease: decreased decreasing
+decree: decreed decreeing
+decry: decried decrying
+dedicate: dedicated dedicating
+deduce: deduced deducing
+defer: deferred deferring
+define: defined defining
+deflate: deflated deflating
+defy: defied defying
+degenerate: degenerated degenerating
+degrade: degraded degrading
+dehydrate: dehydrated dehydrating
+delegate: delegated delegating
+delude: deluded deluding
+deluge: deluged deluging
+delve: delved delving
+demerge: demerged demerging
+demobilize: demobilized demobilizing
+demonstrate: demonstrated demonstrating
+demote: demoted demoting
+denote: denoted denoting
+denounce: denounced denouncing
+denude: denuded denuding
+deny: denied denying
+depose: deposed deposing
+depreciate: depreciated depreciating
+deprive: deprived depriving
+depute: deputed deputing
+deputize: deputized deputizing
+derive: derived deriving
+describe: described describing
+desensitize: desensitized desensitizing
+deserve: deserved deserving
+designate: designated designating
+desire: desired desiring
+despise: despised despising
+deter: deterred deterring
+determine: determined determining
+detonate: detonated detonating
+devalue: devalued devaluing
+deviate: deviated deviating
+devolve: devolved devolving
+devote: devoted devoting
+diagnose: diagnosed diagnosing
+dictate: dictated dictating
+die: died dying
+differentiate: differentiated differentiating
+diffuse: diffused diffusing
+dig: digged dug digging
+dignify: dignified dignifying
+dilate: dilated dilating
+dilute: diluted diluting
+dim: dimmed dimming
+dine: dined dining
+dip: dipped dipt dipping
+disabuse: disabused disabusing
+disagree: disagreed disagreeing
+disassociate: disassociated disassociating
+disbelieve: disbelieved disbelieving
+discharge: discharged discharging
+discipline: disciplined disciplining
+disclose: disclosed disclosing
+discontinue: discontinued discontinuing
+discourage: discouraged discouraging
+discourse: discoursed discoursing
+discriminate: discriminated discriminating
+disengage: disengaged disengaging
+disentangle: disentangled disentangling
+disgrace: disgraced disgracing
+disguise: disguised disguising
+dislike: disliked disliking
+dislodge: dislodged dislodging
+dispense: dispensed dispensing
+disperse: dispersed dispersing
+dispose: disposed disposing
+dispute: disputed disputing
+disqualify: disqualified disqualifying
+dissipate: dissipated dissipating
+dissociate: dissociated dissociating
+dissolve: dissolved dissolving
+distance: distanced distancing
+distil: distilled distilling
+distribute: distributed distributing
+dive: dived dove diving
+diverge: diverged diverging
+diversify: diversified diversifying
+divide: divided dividing
+divine: divined divining
+divorce: divorced divorcing
+divulge: divulged divulging
+do: does did doing done
+dodge: dodged dodging
+dominate: dominated dominating
+donate: donated donating
+dope: doped doping
+dose: dosed dosing
+dote: doted doting
+double: doubled doubling
+douse: doused dousing
+dowse: dowsed dowsing
+drag: dragged dragging
+drape: draped draping
+draw: drew drawn drawing
+dream: dreamed dreamt dreaming
+dress: dressed drest dressing
+dribble: dribbled dribbling
+drink: drank drunk drinking
+drip: dripped dript dripping
+drive: drove drave driven driving
+drizzle: drizzled drizzling
+drone: droned droning
+drop: dropped dropt dropping
+drum: drummed drumming
+dry: dried drying
+dub: dubbed dubbing
+duel: dueled dueling duelled duelling
+dupe: duped duping
+dwell: dwelt dwelled dwelling
+ease: eased easing
+eat: ate eat eaten eating
+eavesdrop: eavesdropped eavesdropping
+echo: echoed echoing
+economize: economized economizing
+eddy: eddied eddying
+edge: edged edging
+educate: educated educating
+ejaculate: ejaculated ejaculating
+electrocute: electrocuted electrocuting
+elevate: elevated elevating
+eliminate: eliminated eliminating
+elongate: elongated elongating
+elope: eloped eloping
+emanate: emanated emanating
+embed: embedded embedding
+embody: embodied embodying
+embrace: embraced embracing
+emerge: emerged emerging
+emigrate: emigrated emigrating
+empathize: empathized empathizing
+emphasize: emphasized emphasizing
+empty: emptied emptying
+emulsify: emulsified emulsifying
+enable: enabled enabling
+encapsulate: encapsulated encapsulating
+encase: encased encasing
+enclose: enclosed enclosing
+encourage: encouraged encouraging
+endure: endured enduring
+engage: engaged engaging
+engrave: engraved engraving
+enlarge: enlarged enlarging
+enquire: enquired enquiring
+enrage: enraged enraging
+enroll: enrol enrolled enrolling
+ensconce: ensconced ensconcing
+enshrine: enshrined enshrining
+enslave: enslaved enslaving
+ensnare: ensnared ensnaring
+ensure: ensured ensuring
+entangle: entangled entangling
+enthrone: enthroned enthroning
+enthuse: enthused enthusing
+entice: enticed enticing
+entitle: entitled entitling
+entrap: entrapped entrapping
+entwine: entwined entwining
+enunciate: enunciated enunciating
+envisage: envisaged envisaging
+envy: envied envying
+epitomize: epitomized epitomizing
+equal: equaled equaling equalled equalling
+equate: equated equating
+equip: equipped equipping
+equivocate: equivocated equivocating
+erase: erased erasing
+erode: eroded eroding
+escalate: escalated escalating
+escape: escaped escaping
+estimate: estimated estimating
+eulogize: eulogized eulogizing
+evade: evaded evading
+evaporate: evaporated evaporating
+evidence: evidenced evidencing
+evolve: evolved evolving
+examine: examined examining
+excel: excelled excelling
+exchange: exchanged exchanging
+excise: excised excising
+excite: excited exciting
+exclude: excluded excluding
+excuse: excused excusing
+execute: executed executing
+exile: exiled exiling
+exonerate: exonerated exonerating
+experience: experienced experiencing
+expiate: expiated expiating
+explode: exploded exploding
+explore: explored exploring
+expose: exposed exposing
+expostulate: expostulated expostulating
+expunge: expunged expunging
+extradite: extradited extraditing
+extrapolate: extrapolated extrapolating
+extricate: extricated extricating
+exclude: excluded excluding
+eye: eyed eying eyeing
+fabricate: fabricated fabricating
+face: faced facing
+fade: faded fading
+fake: faked faking
+fall: fell fallen falling
+familiarize: familiarized familiarizing
+fancy: fancied fancying
+fantasize: fantasized fantasizing
+fare: fared faring
+fascinate: fascinated fascinating
+feature: featured featuring
+feed: fed feeding
+feel: felt feeling
+ferry: ferried ferrying
+fiddle: fiddled fiddling
+fight: fought fighting
+figure: figured figuring
+file: filed filing
+finalize: finalized finalizing
+finance: financed financing
+find: found finding
+fine: fined fining
+fire: fired firing
+fit: fitted fit fitting
+fix: fixed fixt fixing
+fizzle: fizzled fizzling
+flake: flaked flaking
+flambée: flambé flambéed flambéing 
+flame: flamed flaming
+flap: flapped flapping
+flare: flared flaring
+flee: fled fleeing
+fleece: fleeced fleecing
+fling: flung flinging
+flip: flipped flipping
+flit: flitted flitting
+flop: flopped flopping
+flounce: flounced flouncing
+fly: flew flied flown flying
+focus: focused focusing focussed focussing
+fog: fogged fogging
+forage: foraged foraging
+forbear: forbore forborne forbearing
+forbid: forbade forbad forbid forbidden forbidding
+force: forced forcing
+forecast: forecast forecasted forecasting
+foreclose: foreclosed foreclosing
+foresee: foresaw foreseen foreseeing
+foretell: foretold foretelling
+forge: forged forging
+forget: forgot forgat forgotten forgetting
+forgive: forgave forgiven forgiving
+fornicate: fornicated fornicating
+forsake: forsook forsaken forsaking
+fortify: fortified fortifying
+fossilize: fossilized fossilizing
+fracture: fractured fracturing
+frame: framed framing
+fraternize: fraternized fraternizing
+free: freed freeing
+freelance: freelanced freelancing
+freeze: froze frozen freezing
+fret: fretted fretting
+fulfill: fulfilled fulfilling
+fulminate: fulminated fulminating
+fumble: fumbled fumbling
+fume: fumed fuming
+funnel: funneled funneling funnelled funnelling
+fuse: fused fusing
+gabble: gabbled gabbling
+gad: gadded gadding
+galvanize: galvanized galvanizing
+gamble: gambled gambling
+gambol: gamboled gamboling gambolled gambolling
+gape: gaped gaping
+gaze: gazed gazing
+gel: gelled gelling
+generalize: generalized generalizing
+germinate: germinated germinating
+gesticulate: gesticulated gesticulating
+gesture: gestured gesturing
+get: got gat gotten getting
+giggle: giggled giggling
+gird: girded girt girding
+girdle: girdled girdling
+give: gave given giving
+glance: glanced glancing
+glare: glared glaring
+glide: glided gliding
+globalize: globalized globalizing
+glory: gloried glorying
+glue: glued gluing
+glut: glutted glutting
+gnaw: gnawed gnawn gnawing
+go: went gone going
+gob: gobbed gobbing
+goggle: goggled goggling
+gore: gored goring
+gorge: gorged gorging
+gossip: gossiped gossipped gossiping gossipping
+gouge: gouged gouging
+grab: grabbed grabbing
+grace: graced gracing
+graduate: graduated graduating
+grapple: grappled grappling
+grate: grated grating
+gravitate: gravitated gravitating
+graze: grazed grazing
+grieve: grieved grieving
+grimace: grimaced grimacing
+grin: grinned grinning
+grind: ground grinded grinding
+gripe: griped griping
+grope: groped groping
+grouse: groused grousing
+grovel: groveled groveling grovelled grovelling
+grow: grew grown growing
+grub: grubbed grubbing
+grumble: grumbled grumbling
+guarantee: guaranteed guaranteeing
+guide: guided guiding
+gum: gummed gumming
+gurgle: gurgled gurgling
+guzzle: guzzled guzzling
+gyrate: gyrated gyrating
+haggle: haggled haggling
+hallucinate: hallucinated hallucinating
+halve: halved halving
+handle: handled handling
+hang: hung hanged hanging
+hare: hared haring
+harmonize: harmonized harmonizing
+hassle: hassled hassling
+hate: hated hating
+have: has had having
+headline: headlined headlining
+hear: heard hearing
+heave: heaved hove heaving
+hedge: hedged hedging
+hesitate: hesitated hesitating
+hew: hewed hewn hewing
+hide: hid hidden hiding
+hike: hiked hiking
+hinge: hinged hinging
+hire: hired hiring
+hit: hit hitting
+hitchhike: hitchhiked hitchhiking
+hobble: hobbled hobbling
+hobnob: hobnobbed hobnobbing
+hold: held holden holding
+hop: hopped hopping
+hope: hoped hoping
+horrify: horrified horrifying
+house: housed housing
+huddle: huddled huddling
+hum: hummed humming
+hurry: hurried hurrying
+hurt: hurt hurting
+hustle: hustled hustling
+hybridize: hybridized hybridizing
+hypothesize: hypothesized hypothesizing
+identify: identified identifying
+idle: idled idling
+ignite: ignited igniting
+ignore: ignored ignoring
+illustrate: illustrated illustrating
+imagine: imagined imagining
+imbue: imbued imbuing
+immerse: immersed immersing
+immigrate: immigrated immigrating
+immunize: immunized immunizing
+impale: impaled impaling
+impel: impelled impelling
+impinge: impinged impinging
+implicate: implicated implicating
+implore: implored imploring
+imply: implied implying
+importune: importuned importuning
+impose: imposed imposing
+impregnate: impregnated impregnating
+impress: impressed imprest impressing
+improve: improved improving
+improvise: improvised improvising
+impute: imputed imputing
+incarnate: incarnated incarnating
+incite: incited inciting
+incline: inclined inclining
+include: included including
+incorporate: incorporated incorporating
+increase: increased increasing
+incriminate: incriminated incriminating
+incubate: incubated incubating
+inculcate: inculcated inculcating
+indemnify: indemnified indemnifying
+indicate: indicated indicating
+induce: induced inducing
+indulge: indulged indulging
+industrialize: industrialized industrializing
+infer: inferred inferring
+infiltrate: infiltrated infiltrating
+inflate: inflated inflating
+influence: influenced influencing
+infringe: infringed infringing
+infuriate: infuriated infuriating
+infuse: infused infusing
+ingratiate: ingratiated ingratiating
+initiate: initiated initiating
+injure: injured injuring
+inoculate: inoculated inoculating
+inquire: inquired inquiring
+inscribe: inscribed inscribing
+insinuate: insinuated insinuating
+inspire: inspired inspiring
+insulate: insulated insulating
+insure: insured insuring
+integrate: integrated integrating
+intensify: intensified intensifying
+intercede: interceded interceding
+interchange: interchanged interchanging
+intercut: intercut intercutting
+interface: interfaced interfacing
+interfere: interfered interfering
+intermarry: intermarried intermarrying
+intermingle: intermingled intermingling
+interpolate: interpolated interpolating
+interpose: interposed interposing
+interrelate: interrelated interrelating
+interrogate: interrogated interrogating
+intersperse: interspersed interspersing
+intertwine: intertwined intertwining
+intervene: intervened intervening
+interweave: interwove interweaved interwoven interweaving
+intimate: intimated intimating
+intone: intoned intoning
+intrigue: intrigued intriguing
+introduce: introduced introducing
+intrude: intruded intruding
+inundate: inundated inundating
+inure: inured inuring
+inveigle: inveigled inveigling
+investigate: investigated investigating
+invite: invited inviting
+involve: involved involving
+jab: jabbed jabbing
+jackknife: jackknifed jackknifing
+jam: jammed jamming
+jar: jarred jarring
+jet: jetted jetting
+jib: jibbed jibbing
+jig: jigged jigging
+jiggle: jiggled jiggling
+jockey: jockeyed jockeying
+jot: jotted jotting
+journey: journeyed journeying
+justify: justified justifying
+jut: jutted jutting
+keep: kept keeping
+kid: kidded kidding
+kidnap: kidnapped kidnaped kidnapping kidnaping
+kip: kipped kipping
+kneel: knelt kneeled kneeling
+knit: knitted knit knitting
+knot: knotted knotting
+know: knew known knowing
+label: labeled labeling labelled labelling
+lag: lagged lagging
+lap: lapped lapping
+lay: laid laying
+lead: led leading
+lean: leaned leant leaning
+leap: leaped leapt leaping
+leapfrog: leapfrogged leapfrogging
+learn: learned learnt learning
+lease: leased leasing
+leave: left leaving
+leg: legged legging
+lend: lent lending
+let: let letting
+level: leveled leveling levelled levelling
+levy: levied levying
+lie: lied lying
+light: lighted lit lighting
+liquefy: liquefied liquefying
+lob: lobbed lobbing
+lobby: lobbied lobbying
+lop: lopped lopping
+lose: lost losing
+lug: lugged lugging
+make: made making
+marry: married marrying
+marvel: marveled marveling marvelled marvelling
+mean: meant meaning
+meet: met meeting
+melt: melted molten melting
+mislead: misled misleading
+mistake: mistook mistaken mistaking
+misunderstand: misunderstood misunderstanding
+mix: mixed mixt mixing
+model: modeled modeling modelled modelling
+mop: mopped mopping
+mosey: moseyed moseying
+mug: mugged mugging
+multiply: multiplied multiplying
+mutiny: mutinied mutinying
+nab: nabbed nabbing
+nag: nagged nagging
+nip: nipped nipping
+nod: nodded nodding
+notify: notified notifying
+nudge: nudged nudging
+occupy: occupied occupying
+occur: occurred occurring
+omit: omitted omitting
+ossify: ossified ossifying
+outfit: outfitted outfitting
+overdo: overdid overdone overdoing
+overflow: overflowed overflown overflowing
+overlap: overlapped overlapping
+overlay: overlaid overlaying
+overpay: overpaid overpaying
+overrun: overran overrun overrunning
+overspend: overspent overspending
+pad: padded padding
+pan: panned panning
+panic: panicked panicking
+parley: parleyed parleying
+partake: partook partaken partaking
+party: partied partying
+pat: patted patting
+pay: paid payed paying
+pedal: pedaled pedaling pedalled pedalling
+peg: pegged pegging
+pen: penned penning
+pencil: penciled penciling pencilled pencilling
+permit: permitted permitting
+petrify: petrified petrifying
+pig: pigged pigging
+pin: pinned pinning
+pip: pipped pipping
+pit: pitted pitting
+plan: planned planning
+plead: pleaded pled pleading
+plod: plodded plodding
+plop: plopped plopping
+plot: plotted plotting
+plug: plugged plugging
+ply: plied plying
+pop: popped popping
+prefer: preferred preferring
+prod: prodded prodding
+prop: propped propping
+propel: propelled propelling
+prophesy: prophesied prophesying
+prove: proved proven proving
+pry: pried prying
+pummel: pummeled pummeling pummelled pummelling
+put: put putting
+puzzle: puzzled puzzling
+qualify: qualified qualifying
+quarrel: quarreled quarreling quarrelled quarrelling
+query: queried querying
+quip: quipped quipping
+quit: quit quitted quitting
+quiz: quizzed quizzing
+radio: radioed radioing
+rally: rallied rallying
+ram: rammed ramming
+rap: rapped rapping
+rat: ratted ratting
+read: read reading
+ready: readied readying
+rebel: rebel rebelled rebelling
+refer: referred referring
+refuel: refueled refueling refuelled refuelling
+regret: regretted regretting
+relay: relaid relaying
+rely: relied relying
+remake: remade remaking
+remit: remitted remitting
+rendezvous: rendezvoused rendezvousing
+repel: repelled repelling
+reply: replied replying
+reprove: reproved re proved reproven reproving
+rev: revved revving
+rewind: rewound rewinded rewinding
+ricochet: ricocheted ricocheting ricochetted
+rid: rid ridded ridding
+ride: rode rid ridden riding
+rig: rigged rigging
+ring: ringed ringing rang rung
+rip: ripped ripping
+rise: rose risen rising
+rivet: riveted riveting rivetted rivetting
+rob: robbed robbing
+rot: rotted rotting
+rough: roughed roughing
+rub: rubbed rubbing
+run: ran run running
+sally: sallied sallying
+satisfy: satisfied satisfying
+saw: sawed sawn sawing
+say: said saying
+scan: scanned scanning
+schlep: schlepped schlepping
+scrub: scrubbed scrubbing
+scud: scudded scudding
+scurry: scurried scurrying
+see: saw seen seeing
+seek: sought seeking
+seethe: seethed sod sodden seething
+segue: segued segueing
+sell: sold selling
+send: sent sending
+set: set setting
+sew: sewed sewn sewing
+shake: shook shaken shaking
+shake: shaved shaven shaving
+shear: sheared shorn shearing
+shimmy: shimmied shimmying
+shine: shone shined shining
+ship: shipped shipping
+shoo: shooed shooing
+shoot: shot shooting
+shop: shopped shopping
+shovel: shoveled shoveling shovelled shovelling
+show: showed shown showing
+shrink: shrank shrunk shrunken shrinking
+shrivel: shriveled shriveling shrivelled shrivelling
+shrug: shrugged shrugging
+shun: shunned shunning
+shut: shut shutting
+sidestep: sidestepped sidestepping
+signal: signaled signaling signalled signalling
+signify: signified signifying
+sin: sinned sinning
+sing: sang sung singing
+sink: sank sunk sunken sinking
+sip: sipped sipping
+sit: sat sate sitten sitting
+ski: skied skiing
+skim: skimmed skimming
+skin: skinned skinning
+skip: skipped skipping
+slam: slammed slamming
+slap: slapped slapping
+sleep: slept sleeping
+slide: slid slidden sliding
+sling: slung slinging
+slink: slunk slank slinking
+slip: slipped slipt slipping
+slog: slogged slogging
+slop: slopped slopping
+slot: slotted slotting
+slug: slugged slugging
+slum: slummed slumming
+slur: slurred slurring
+smell: smelled smelt smelling
+snag: snagged snagging
+snap: snapped snapping
+sneak: sneaked snuck sneaking
+snip: snipped snipping
+snog: snogged snogging
+sob: sobbed sobbing
+softpedal: softpedaled softpedaling softpedalled softpedalling
+solidify: solidified solidifying
+sow: sowed sown sowing
+spar: sparred sparring
+speak: spoke spake spoken speaking
+specify: specified specifying
+speed: sped speeded speeding
+spell: spelled spelt spelling
+spend: spent spending
+spill: spilled spilt spilling
+spins: pun span spun spinning
+spiral: spiraled spiraling spiralled spiralling
+spit: spit spat spitting
+split: split splitting
+spoil: spoiled spoilt spoiling
+spoonfeed: spoonfed spoonfeeding
+spread: spread spreading
+spring: sprang sprung springing
+spur: spurred spurring
+spy: spied spying
+squat: squatted squat squatting
+stab: stabbed stabbing
+stand: stood standing
+star: starred starring
+stay: stayed staid staying
+steady: steadied steadying
+steal: stole stolen stealing
+stem: stemmed stemming
+stencil: stenciled stenciling stencilled stencilling
+step: stepped stepping
+stick: sticked sticking
+sting: stung stang stinging
+stink: stank stunk stinking
+stir: stirred stirring
+stop: stopped stopt stopping
+strap: stopped stopt stopping
+stew: strewed strewn strewing
+stride: strode stridden striding
+strike: struck strook stricken striking
+string: strung stringed stringing
+strip: stripped stript stripping
+strive: strove strived striven striving
+strum: strummed strumming
+strut: strutted strutting
+study: studied studying
+sublet: sublet subletting
+submit: submitted submitting
+sun: sunned sunning
+supply: supplied supplying
+swap: swapped swapping
+swear: swore sware sworn swearing
+sweat: sweat sweated sweating
+sweep: swept sweeping
+swell: swelled swollen swelling
+swig: swigged swigging
+swim: swam swum swimming
+swing: swung swinging
+swivel: swiveled swiveling swivelled swivelling
+swot: swotted swotting
+tag: tagged tagging
+take: took taken taking
+tally: tallied tallying
+tan: tanned tanning
+tap: tapped tapping
+taxi: taxied taxiing taxying
+teach: taught teaching
+tear: tore tare torn tearing
+tell: told telling
+terrify: terrified terrifying
+testify: testified testifying
+thin: thinned thinning
+think: thought thinking
+thrive: thrived throve thriven thriving
+throb: throbbed throbbing
+throw: threw thrown throwing
+thrust: thrust thrusting
+thub: thudded thudding
+tie: tied tying
+tip: tipped tipping
+tiptoe: tiptoed tiptoeing
+toady: toadied toadying
+top: topped topping
+toss: tossed tost tossing
+total: totaled totaling totalled totalling
+towel: toweled toweling towelled towelling
+traffic: trafficked trafficking
+transfer: transferred transferring
+transmit: transmitted transmitting
+trap: trapped trapping
+travel: traveled traveling travelled travelling
+tread: trod trodden treading
+trek: trekked trekking
+trim: trimmed trimming
+trip: tripped tripping
+trot: trotted trotting
+try: tried trying
+tug: tugged tugging
+tunnel: tunneled tunneling tunnelled tunnelling
+tut: tutted tutting
+twig: twigged twigging
+twin: twinned twinning
+typecast: typecast typecasting
+understand: understood understanding
+undertake: undertook undertaken undertaking
+undo: undid undone undoing
+unify: unified unifying
+unravel: unraveled unraveling unravelled unravelling
+unstick: unstuck unsticking
+unwind: unwound unwinding
+unzip: unzipped unzipping
+up: upped upping
+upset: upset upsetting
+vary: varied varying
+verify: verified verifying
+vie: vied vying
+vilify: vilified vilifying
+volley: volleyed volleying
+wag: wagged wagging
+wake: waked woke woken waking
+waylay: waylaid waylaying
+wear: wore worn wearing
+weary: wearied wearying
+weave: wove weaved woven weaving
+wed: wedded wed wedding
+weep: wept weeping
+wend: wended went wending
+whip: whipped whipt whipping
+whiz: whizz whizzed whizzing
+win: won winning
+withdraw: withdrew withdrawn withdrawing
+withhold: withheld withholding
+work: worked wrought working
+worry: worried worrying
+wrap: wrapped wrapt wrapping
+wreathe: wreathed wreathen wreathing
+wring: wrung wringing
+write: wrote writ written writing
+yap: yapped yapping
+zap: zapped zapping
+zero: zeroed zeroing
+zigzag: zigzagged zigzagging
+zip: zipped zipping
